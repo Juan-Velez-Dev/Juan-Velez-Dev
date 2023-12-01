@@ -9,26 +9,14 @@
 </p>
 
 <p>
-I'm . I'm a final year student pursuing Bachelors's in Computer Science 🎓 from North South University 🏛. I'm a passionate learner who's always willing to learn and work across technologies. I love to explore new technologies and try to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies 👨🏻‍💻. I'm currently into Full stack Development 🕸️ and working on Machine Learning 🤓.
+
+👋 Hello! I'm Juan, a 27-year-old technology enthusiast from Colombia. Currently, I'm in the development phase of a full-stack development project, where I've been honing my skills in programming and web development.
+
+Since my youth, I've had a strong fascination with technology, finding joy in disassembling and fixing computers and electronic devices. This passion has not only sharpened my creative thinking but has also driven me to seek innovative solutions in the technological field.
+
+I'm excited to take my enthusiasm and skills to the next level! 💻🚀
 </p>
 
-<!-- Personal Stuffs -->
-<h3> Talking about personal stuffs:</h3>
-
-- 👨🏽‍💻 I’m currently working on something cool 😉
-
-- 🌱 I’m currently learning Full stack development and UI design.
-
-- 📝 I regulary write articles on **[Mubin's Odysse](https://mubinsodyssey.com)**
-
-- 💬 Ask me about anything **[here](https://t.me/kmhmubin)** ! I am happy to help.
-
-- 📫 How to reach me **[Twitter](http://twitter.com/kmhmubin)**
-
-<div align="center">
-	
-</a>
-</div>
 
 <p align="center">
 
